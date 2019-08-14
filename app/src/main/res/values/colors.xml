@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#800000</color>
+    <color name="colorPrimaryDark">#800000</color>
+    <color name="colorAccent">#000000</color>
+
+    <!--color untuk gradient tansition-->
+    <color name="white">#FFFFFF</color>
+    <color name="maroon">#800000</color>
+    <color name="green_dikit">#4CAF50</color>
+    <color name="indigo_500">#3f51b5</color>
+    <color name="blue_500">#2196f3</color>
+    <color name="cyan_500">#00bcd4</color>
+    <color name="marron_gelap">#4B0000</color>
+
+    <color name="grey">#1E1E1E</color>
+
+    <color name="green">#202020</color>
+</resources>

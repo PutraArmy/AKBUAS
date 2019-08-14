@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">10116331 UAS AKB</string>
+    <string name="profile">Profile</string>
+    <string name="contact">Contact</string>
+    <string name="list_friends">List friends</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_login">login</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Page Number View Pager-->
+    <string name="vp1">Swipe right (1 of 3)</string>
+    <string name="vp2">Swipe right (2 of 3)</string>
+    <string name="vp3">Finish to next (3 of 3)</string>
+
+    <!--Login Intro View Pager-->
+    <string name="loginIntro1">
+        - Untuk Login kedalam aplikasi lakukan Sign Up terlebih dahulu
+    </string>
+    <string name="loginIntro2">
+        - Masukan Username dan Password
+    </string>
+    <string name="loginIntro3">
+        - Klik Tombol "Login"
+    </string>
+
+    <!--Add Friend Intro View Pager-->
+    <string name="friendIntro1">
+        - Untuk Menambahkan List Teman Klik Tombol (+)
+    </string>
+    <string name="friendIntro2">
+        - Masukan data teman lalu Klik tombol "simpan"
+    </string>
+    <string name="friendIntro3">
+        - Untuk mengubah atau menghapus daftar teman tahan nama teman lalu pilih ubah atau hapus
+    </string>
+
+    <!--Add Friend Intro View Pager-->
+    <string name="LogutIntro1">
+        - Untuk melakukan logout klik navbar pojok kanan
+    </string>
+    <string name="LogutIntro2">
+        - Dengan demikian anda logout
+    </string>
+    <string name="LogutIntro3">
+        - Untuk Login kembali masukan Username dan Password lalu klik "login"
+    </string>
+
+</resources>
